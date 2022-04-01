@@ -1,4 +1,4 @@
-baseURL = 'keepearthcool.info'
+baseURL = 'https://keepearthcool.info'
 languageCode = 'en-us'
 title = 'KeepEarthCool.info'
 theme = "papermod"
