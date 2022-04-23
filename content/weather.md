@@ -12,6 +12,8 @@ Weather and temperature in Pleasant Hill, California during the weeks
 of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 2022 (July weather in 2021, not 2022).
 
+## April
+
 #### April 10 - April 16, 2000:
 
 > Temperature: H: 72, L: 47  
@@ -51,6 +53,8 @@ of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 > Cloud Cover: partly cloudy/mostly clear  
 
 [source](https://weatherspark.com/h/m/548/2022/4/Historical-Weather-in-April-2022-in-Pleasant-Hill-California-United-States)
+
+## July
 
 #### July 10 - July 16, 2000:
 

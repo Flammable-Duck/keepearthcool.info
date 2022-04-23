@@ -44,13 +44,13 @@ menu:
     - name: What is Climate Change?
       url: /what_is_climate_change
       weight: 2
-    - name: How Does it work?
+    - name: How Does it Work?
       url: /how_does_it_work
       weight: 3
     - name: Why is it Happening?
       url: /why_is_it_happening
       weight: 4
-    - name: Why Should I care?
+    - name: Why Should I Care?
       url: /why_care
       weight: 5
     - name: Climate Change In The News
