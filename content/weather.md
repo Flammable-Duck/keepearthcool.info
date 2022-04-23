@@ -12,7 +12,7 @@ Weather and temperature in Pleasant Hill, California during the weeks
 of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 2022 (July weather in 2021, not 2022).
 
-#### [April 10 - April 16, 2000](https://weatherspark.com/h/m/548/2000/4/Historical-Weather-in-April-2000-in-Pleasant-Hill-California-United-States):
+#### April 10 - April 16, 2000:
 
 > Temperature: H: 72, L: 47  
 > Wind: avg. 25mph  
@@ -20,7 +20,9 @@ of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 > Other weather: clear  
 > Cloud cover: avg. mostly cloudy/overcast  
 
-#### [April 10 - April 16, 2002](https://weatherspark.com/h/m/548/2002/4/Historical-Weather-in-April-2002-in-Pleasant-Hill-California-United-States):
+[source](https://weatherspark.com/h/m/548/2000/4/Historical-Weather-in-April-2000-in-Pleasant-Hill-California-United-States)
+
+#### April 10 - April 16, 2002:
 
 > Temperature: H: 76, L: 47  
 > Wind: avg. 30mph  
@@ -28,7 +30,9 @@ of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 > Other weather: some fog, clear  
 > Cloud Cover: avg. mostly cloudy/partly cloudy  
 
-#### [April 10 - April 16, 2012](https://weatherspark.com/h/m/548/2012/4/Historical-Weather-in-April-2012-in-Pleasant-Hill-California-United-States):
+[source](https://weatherspark.com/h/m/548/2002/4/Historical-Weather-in-April-2002-in-Pleasant-Hill-California-United-States)
+
+#### April 10 - April 16, 2012:
 
 > Temperature: H: 64, L: 46  
 > Wind: avg. 32mph  
@@ -36,7 +40,9 @@ of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 > Other weather: clear  
 > Cloud Cover: avg. mostly cloudy  
 
-#### [April 10 - April 16, 2022](https://weatherspark.com/h/m/548/2022/4/Historical-Weather-in-April-2022-in-Pleasant-Hill-California-United-States):
+[source](https://weatherspark.com/h/m/548/2012/4/Historical-Weather-in-April-2012-in-Pleasant-Hill-California-United-States)
+
+#### April 10 - April 16, 2022:
 
 > Temperature: H: 64, L: 45  
 > Wind: avg. 50mph  
@@ -44,7 +50,9 @@ of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 > Other weather: clear  
 > Cloud Cover: partly cloudy/mostly clear  
 
-#### [July 10 - July 16, 2000](https://weatherspark.com/h/m/548/2000/7/Historical-Weather-in-July-2000-in-Pleasant-Hill-California-United-States):
+[source](https://weatherspark.com/h/m/548/2022/4/Historical-Weather-in-April-2022-in-Pleasant-Hill-California-United-States)
+
+#### July 10 - July 16, 2000:
 
 > Temperature: H: 72, L: 54  
 > Wind: avg. 23mph  
@@ -52,14 +60,18 @@ of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 > Other weather: some fog, clear  
 > Cloud Cover: avg. mostly cloudy/overcast  
 
-#### [July 10 - July 16, 2002](https://weatherspark.com/h/m/548/2002/7/Historical-Weather-in-July-2002-in-Pleasant-Hill-California-United-States):
+[source](https://weatherspark.com/h/m/548/2000/7/Historical-Weather-in-July-2000-in-Pleasant-Hill-California-United-States)
+
+#### July 10 - July 16, 2002:
 > Temperature: H: 77, L: 54  
 > Wind: avg. 22mph  
 > Precipitation (rain): none  
 > Other weather: some fog  
 > Cloud Cover: avg. partly cloudy/mostly cloudy  
 
-#### [July 10 - July 16, 2012](https://weatherspark.com/h/m/548/2012/7/Historical-Weather-in-July-2012-in-Pleasant-Hill-California-United-States):
+[source](https://weatherspark.com/h/m/548/2002/7/Historical-Weather-in-July-2002-in-Pleasant-Hill-California-United-States)
+
+#### July 10 - July 16, 2012:
 
 > Temperature: H: 77, L: 51  
 > Wind: avg. 26mph  
@@ -67,8 +79,9 @@ of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 > Other weather: clear  
 > Cloud Cover: avg. mostly cloudy/mostly clear  
 
+[source](https://weatherspark.com/h/m/548/2012/7/Historical-Weather-in-July-2012-in-Pleasant-Hill-California-United-States)
 
-#### [July 10 - July 16, 2021](https://weatherspark.com/h/m/548/2021/7/Historical-Weather-in-July-2021-in-Pleasant-Hill-California-United-States):
+#### July 10 - July 16, 2021:
 
 > Temperature: H: 77, L: 54  
 > Wind: avg. 30mph  
@@ -76,3 +89,4 @@ of April 10 - April 16, and July 10 - July 16, in 2000, 2002, 2012, and
 > Other weather: clear  
 > Cloud Cover: avg. mostly clear  
 
+[source](https://weatherspark.com/h/m/548/2021/7/Historical-Weather-in-July-2021-in-Pleasant-Hill-California-United-States)
