@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-04-01T10:50:28-07:00
-draft: true
+draft: false
 ---
 The purpose of this website is to inform and educate as many people as
 possible of the threat of long lasting climate change. This website will
