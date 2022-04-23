@@ -1,7 +1,7 @@
 baseURL: https://keepearthcool.info
 languageCode: en-us
 defaultContentLanguage: en
-title: KeepEearthCool.info
+title: KeepEarthCool.info
 theme: cupper-hugo-theme
 enableGitInfo: true
 
