@@ -2,7 +2,7 @@ baseURL: https://keepearthcool.info
 languageCode: en-us
 defaultContentLanguage: en
 title: KeepEarthCool.info
-theme: papermod
+theme: cupper-hugo-theme
 enableGitInfo: true
 
 taxonomies:
