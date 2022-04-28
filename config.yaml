@@ -17,7 +17,7 @@ imaging:
 params:
   description: Learn about climate change, and what you can do to help
   homeMetaContent: Learn about climate change, and what you can do to help
-  footer: ©️2022
+  footer: \"Keep Earth Cool\" graphic by Golnaz Eghtesad. Website made with contributions from Ayman Baydoun, Golnaz Eghtesad, Isabella Ramirez, Willow Ramsay, and Erica Stevenson
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
